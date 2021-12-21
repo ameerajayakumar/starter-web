@@ -3,6 +3,7 @@
 Lets do this.
 This repository is for showing how Git and GitHub work
 Here adding a line for rebasing example
+more changes from feature branch
 ## Introduction
 
 example of introduction section on the readme file.
