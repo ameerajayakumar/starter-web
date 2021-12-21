@@ -15,7 +15,7 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 example of how to contribute to the proj
-
+updating...
 ## Deployment
 
 its here-3
