@@ -7,7 +7,7 @@ Ameera    <name> -- <role> -- <twitter>
 
 # THANKS
 
-    <name>
+ All my students   <name>
 
 # TECHNOLOGY COLOPHON
 
